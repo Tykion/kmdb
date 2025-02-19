@@ -74,7 +74,7 @@ Recommend using **Postman** for CRUD operations.
 }
 ```
 
-*ID's should be immutable as fas as I tried, it gave me an error.*
+*ID's are immutable.*
 
 ## CRUD Operations: 
 
