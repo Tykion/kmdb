@@ -6,7 +6,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://gitea.kood.tech/Tykion/kmdb.git
+git clone https://github.com/Tykion/kmdb.git
 ```
 
 2. Navigate to project directory
