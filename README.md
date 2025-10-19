@@ -30,16 +30,7 @@ Use:
 mvn spring-boot:run
 ```
 
-in the terminal and to stop it you just press CTRL + C in the terminal.
-
-Recommend using **Postman** for CRUD operations.
-
 <p>Default pathway: localhost:8080/api/{movies or genres or actors} <br>
-
-*Make sure to not put slash on the last mapping/resource for example "localhost:8080/api/movies/" won't work, but "localhost:8080/api/movies will work"*
-<br>
-<p>ID's ARE SET AUTOMATICALLY AND ARE NOT CHANGEABLE<br>
-<p>DATABASE IS IN THE "resources/database" FOLDER! (Sqlite)<br>
 
 ## Post/Create operations:
 
@@ -74,11 +65,7 @@ Recommend using **Postman** for CRUD operations.
 }
 ```
 
-*ID's are immutable.*
-
 ## CRUD Operations: 
-
-- **PAGINATION IS PRESENT!**
 
 Starting page is 0 and default size is 20.
 
